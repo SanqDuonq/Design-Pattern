@@ -39,3 +39,5 @@ class PaymentFactory {
 
 const paymentMethod: PaymentMethod = 'moMo';
 PaymentFactory.createPaymentMethod(paymentMethod).pay(5000);
+
+
